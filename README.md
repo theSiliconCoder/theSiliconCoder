@@ -18,6 +18,8 @@ I love building payment platforms, trading systems and ai infrastructure using c
 
 - **Fraud-Resilient Payment Platforms and Infrastructure**: Beyond mastering how to move money across borders, I'm keen on predicting fraud vectors before they hit for more secure transaction flows, especially in emerging markets.
 
+- **Automated Trading & Investment Analysis Tools and Platforms**: Beyond mastering how to build trading systems, I'm interested in helping everyday people and businesses win in financial markets with minimal risk and effort.
+
 - **Autonomous Logistics Infrastructure**: With experience in building drones and computer vision systems, I'm interested in optimizing how physical goods move through autonomous systems.
 
 - **Autonomous Security and Defense Systems**: Applying core ML principles from my background in autonomous trading systems to physical and remote-controlled defense systems.
