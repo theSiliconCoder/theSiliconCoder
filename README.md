@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey 👋, I'm Osas
 
-<!--
-**theSiliconCoder/theSiliconCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building payment platforms, trading systems and ai infrastructure using c++, android and machine learning skillset.
 
-Here are some ideas to get you started:
+## Top Skills
+- Kotlin / Android Development and Backend Systems
+- C++ / Trading Systems and Ai InfraStructure
+- C / Embedded Systems & IoT
+- Python / AI & ML Research and Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [MT5 Market-Aware Trading Bot](https://github.com/yourusername/mt5-bot)
+- [C++ Deterministic Matching Engine](https://github.com/yourusername/matching-engine)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OsasOmijie&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OsasOmijie&layout=compact)
