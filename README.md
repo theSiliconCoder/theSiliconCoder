@@ -12,5 +12,3 @@ I love building payment platforms, trading systems and ai infrastructure using c
 - [MT5 Market-Aware Trading Bot](https://github.com/yourusername/mt5-bot)
 - [C++ Deterministic Matching Engine](https://github.com/yourusername/matching-engine)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OsasOmijie&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OsasOmijie&layout=compact)
