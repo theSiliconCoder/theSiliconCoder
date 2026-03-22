@@ -14,7 +14,7 @@ I love building payment platforms, trading systems and ai infrastructure using c
 - [C++ Deterministic Matching Engine](https://github.com/theSiliconCoder/order_matching_engine)
 
 ## Problem Solving Domains I'm Most Passionate About
-- **Business Intelligence and Automation**: Solving the pain of high-stakes theft in the oil and gas downstream sectors and automating compliance checks.
+- **Business Intelligence and Automation Platform**: Solving the pain of high-stakes theft in the oil and gas downstream sectors and automating compliance checks. The platform works for tracking diesel, gas and any high-value asset that dissappears easily.
 
 - **Fraud-Resilient Payment Platforms and Infrastructure**: Beyond mastering how to move money across borders, I'm keen on predicting fraud vectors before they hit for more secure transaction flows, especially in emerging markets.
 
